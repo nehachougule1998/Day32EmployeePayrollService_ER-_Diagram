@@ -218,7 +218,7 @@ mysql> Alter table employee_payroll_service Add Taxable_Pay Double not null afte
 Query OK, 0 rows affected (0.10 sec)
 Records: 0  Duplicates: 0  Warnings: 0
 
-mysql> Alter table employee_payroll)_service Add Income_Tax Double not null after Taxable_Pay;
+mysql> Alter table employee_payroll_service Add Income_Tax Double not null after Taxable_Pay;
 Query OK, 0 rows affected (0.09 sec)
 Records: 0  Duplicates: 0  Warnings: 0
 
